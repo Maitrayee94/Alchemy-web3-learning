@@ -1,0 +1,21 @@
+{
+    "description": "This is my first NFT, proves i delpoyes a ER721 smart contract on goerli.", 
+    "external_url": "", 
+    "image": "https://ipfs.filebase.io/ipfs/QmQa1w1dCh5E5vcQrRC4BKopEQy3qoEtKi4AbayAU5v6PP", 
+    "name": "MD Road 2 web3",
+  
+    "attributes": [
+        {
+          "trait_type": "Coolness", 
+          "value": "A lot"
+        }, 
+        {
+          "trait_type": "Creater", 
+          "value": "MD"
+        }, 
+        {
+          "trait_type": "Description", 
+          "value": "ERC721 standard token"
+        }
+    ]
+}
