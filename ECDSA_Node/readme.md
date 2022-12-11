@@ -28,7 +28,7 @@ The client folder contains a react app using vite. To get started, follow these 
 
 The server folder contains a node.js server using express. To run the server, follow these steps:
 
-1. Open a terminal within the <code>/server<code> folder
+1. Open a terminal within the <code>/server</code> folder
 2. Run <code>npm install</code> to install all the depedencies
 3. Run <code>node index</code> to start the server
 4. The application should connect to the default server port (3042) automatically!
